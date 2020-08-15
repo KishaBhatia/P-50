@@ -1,0 +1,68 @@
+h1{
+    color:brown;
+    border:solid;
+    text-align:center;
+    margin-left:350px;
+    margin-right:350px;
+}
+.about{
+    color:rgb(255,69,48);
+    border:solid;
+}
+img{
+    color:rgb(183, 0, 255);
+    border:solid;
+}
+.follow{
+    background-color:aquamarine;
+    display:flex;
+    justify-content:space-evenly;
+}
+.heading{
+    background-color:sandybrown;
+}
+.grid{
+    border:dashed;
+}
+.projects{
+    background-color: springgreen;
+    border:solid
+}
+.crane{
+    background-color: wheat;
+    border:dashed;
+    display:flex;
+}
+.butterfly{
+    background-color: wheat;
+    border:dashed;
+    display:flex;
+}
+.frog{
+    background-color: wheat;
+    border:dashed;
+    display:flex;
+}
+.hummingbird{
+    background-color: wheat;
+    border:dashed;
+    display:flex;
+}
+.rabbit{
+    background-color: wheat;
+    border:dashed;
+    display:flex;
+}
+.turtle{
+    background-color: wheat;
+    border:dashed;
+    display:flex;
+}
+.info{
+    display:flex;
+    justify-content:flex-end;
+}
+.image{
+    display: flex;
+    justify-content:flex-start;
+}
